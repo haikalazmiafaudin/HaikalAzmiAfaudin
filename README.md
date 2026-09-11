@@ -4,7 +4,7 @@
 Saya Adalah *Siswa SMKN 1 PURWOSARI*
 | Bahasa | Fungsi |
 |:--| :--|
-| ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Untuk Membuat Tampilan |
+| ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Untuk Coding |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Untuk Coding |
 | ![DUOLINGGO](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) | Belajar Bahasa |
 | ![BITCOIN](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) | Bitcoin |
